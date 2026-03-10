@@ -1,8 +1,13 @@
-[11164:3604:0304/153909.647:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11164:17680:0304/153909.677:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11164:3604:0304/153909.693:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11164:3604:0304/153911.323:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[8432:7956:0304/153912.182:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FA0BEDF80E4CC9C98CCABB6B53E17B60 will be ignored
-[9624:15596:0304/160404.188:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[9624:15596:0304/164301.363:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[11164:3604:0304/171158.895:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12900:14544:0310/103625.821:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12900:17548:0310/103625.849:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12900:14544:0310/103625.866:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12900:14544:0310/103627.512:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[12900:14168:0310/103627.512:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12900:9796:0310/103627.514:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12900:9796:0310/103627.515:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12900:9796:0310/103627.518:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12900:14168:0310/103627.737:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12900:14168:0310/103627.738:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7324:14232:0310/103629.243:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A77B6D6F1B09B933DAC2E1510A892E33 will be ignored
+[12900:13188:0310/103632.371:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12900:14544:0310/121437.632:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

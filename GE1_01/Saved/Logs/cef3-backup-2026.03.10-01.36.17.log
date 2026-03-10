@@ -1,0 +1,20 @@
+[12824:6552:0310/103332.474:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12824:6668:0310/103332.501:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12824:6552:0310/103332.518:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12824:6552:0310/103334.177:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[12824:14980:0310/103334.178:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12824:14980:0310/103334.180:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12824:19020:0310/103334.182:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12824:19020:0310/103334.184:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12824:14980:0310/103334.506:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12824:14980:0310/103334.507:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15272:8768:0310/103336.035:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-35EB73C79B78404368593D3851A4472C will be ignored
+[12824:11056:0310/103336.305:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[12824:6552:0310/103336.347:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12824:6552:0310/103336.347:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12824:6552:0310/103336.347:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12824:6552:0310/103336.347:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12824:11056:0310/103336.351:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12824:13868:0310/103337.694:WARNING:leveldb_database.cc(141)] Unable to open C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1996:10620:0310/103541.913:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[12824:6552:0310/103617.232:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
