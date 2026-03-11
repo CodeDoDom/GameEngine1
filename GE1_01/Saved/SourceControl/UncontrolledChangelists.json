@@ -7,7 +7,6 @@
 			"files": [
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/MyMap/BrickHouseMap.umap",
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/LEC03/BP_GoldTrophy.uasset",
-				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/MyMap/ManyBrickHouseMap1.umap",
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/MyMap/ManyBrickHouseMap.umap",
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/LEC03/FloorOnlyLevel.umap",
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/__ExternalActors__/LEC03/FloorOnlyLevel/A/3W/B06M6T7WIL2Q4G32DLKYLJ.uasset",
@@ -59,6 +58,9 @@
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/__ExternalActors__/LEC03/BrickHouseLevelInstance/B/SJ/WAKU75VOGRRYRW0N6SEWLA.uasset",
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/__ExternalActors__/LEC03/BrickHouseLevelInstance/C/UV/0AC6SD2WGX4OG3KH74AEB1.uasset",
 				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/StarterContent/Materials/M_Ground_Grass.uasset",
+				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/LEC03/FloatingComponent.uasset",
+				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/LEC03/BP_FloatingCouch.uasset",
+				"C:/GameEngine1_01/GameEngine1/GE1_01/Content/MyMap/ManyBrickHouseMap1.umap",
 				"C:/GameEngine1_01/GE1_01/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/GameEngine1_01/GE1_01/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/K9/YMOCMYOX64YV80E7WS7O8O.uasset",
 				"C:/GameEngine1_01/GE1_01/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RY/2QV42M4X6ZPH0P7DMFOHJ5.uasset",

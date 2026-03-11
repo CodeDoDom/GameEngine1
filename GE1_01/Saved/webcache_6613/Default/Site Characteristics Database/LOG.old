@@ -1,1 +1,6 @@
-2026/03/10-10:33:32.536 36a4 Reusing MANIFEST C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/11-15:54:25.897 c58 Log #6: 2 ops saved to Table #7 OK
+2026/03/11-15:54:25.899 c58 Archiving C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/03/11-15:54:25.899 c58 Table #4: 2 entries OK
+2026/03/11-15:54:25.899 c58 Table #7: 2 entries OK
+2026/03/11-15:54:25.902 c58 Archiving C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/11-15:54:25.906 c58 **** Repaired leveldb C:\GameEngine1_01\GameEngine1\GE1_01\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 369 bytes. Some data may have been lost. ****
